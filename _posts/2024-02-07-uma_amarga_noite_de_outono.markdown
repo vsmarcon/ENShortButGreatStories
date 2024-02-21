@@ -1,42 +1,42 @@
 ---
 layout: post
-title:  "Uma amarga noite de outono"
+title:  "A bitter fall evening"
 date:   2024-02-07 14:34:25
-categories: horror
+categories: drama
 image: /assets/images/background_image_3.png
 full_text: true
-textual_genre: Conto
+textual_genre: Short storie
 ---
-A lua lá em cima brilhava fulgurante. Na rua não se ouvia um som sequer. O vento silencioso soprava uma corrente única o suficiente para marcar o momento na memória dos dois. Ele se aproximou um pouco mais, e pousou suavemente sua mão na da companheira. Um momento de silêncio, então:
+The moon above shone brightly. Not a sound could be heard in the street. The silent wind blew a single current that was enough to mark the moment in their memories. He moved a little closer and gently laid his hand on his companion's. A moment of silence, then:
 
-— A Lua está tão linda hoje, como nunca a vi antes.
+— The moon is stunning today, as I've never seen it before.
 
-— Realmente. Eu também nunca havia a visto assim.
+— Indeed. I'd never seen her like that either.
 
-Então mais um momento de silêncio. Se o vento soprado fosse material, ele seria finíssimo, pois os dois podiam sentir as correntes invadindo as pequenas brechas dos botões de suas roupas, gelando o corpo, bem como seus corações.
+Then another moment of silence. If the wind blowing was tangible, it would be very thin, because they could both feel the currents invading the small gaps in the buttons of their clothes, freezing their bodies as well so their hearts.
 
-— Você acredita em outros Universos? Aqueles paralelos... — o rapaz perguntou. A jovem, com um certo olhar de estranheza, respondeu:
+— Do you believe in other universes? Those parallel ones... — the boy asked. The young lady, with a certain strange look on her face, replied:
 
-— Eu não sei, realmente, não sei. Hoje não estive com muita cabeça para pensar nessas coisas existenciais. Não sei como você consegue. 
+— I really don't know. I haven't had much time to think about these existential things today. I don't know how you do it. 
 
-Mas ela o conhecia. Ah, e como o conhecia, e embora ele não fosse muito aberto para questões que um relacionamento exige, questões existenciais eram nítidas na personalidade do agora ex-namorado. 
+But she knew him. Oh, and how she knew him, and although he wasn't very open about the issues that a relationship requires, existential questions were clear in the personality of her now ex-boyfriend. 
 
-— Não, eu não estava também com cabeça. E ainda não estou. Pensei só em tudo aquilo que conversamos ontem e hoje; realmente, estou refletindo. 
+— No, I wasn't thinking either. And I'm still not. I just thought about everything we talked about yesterday and today; I'm really wondering. 
 
-— Que bom. Porque não é fácil deixar um relacionamento, ainda mais quando ainda se ama. Não tem sido fácil para mim. 
+— That's good. Because it's not easy to leave a relationship, especially when you still in love for the person. It's been tough for me.
 
-Depois de 4 anos e alguns meses, os dois decidiram por se separarem. As coisas não eram as mesmas: ele havia se fechado como nunca, e isso, embora não fosse proposital, atrapalhou muito o correr das coisas. Eles andavam muito separados, e quando juntos, um ar de estranheza pairava sobre os dois. De fato, uma morte silenciosa se aproximava dos dois. Ele continuou:
+After four years and a few months, the two decided to split up. Things weren't the same: he had closed himself off like never before, and this, although it wasn't deliberate, really got in the way of things. They were apart a lot, and when they were together, an air of strangeness hung over them. In fact, a silent death was approaching them both. He continued:
 
-— Para mim também não. Não estou conseguindo escrever nada, não tenho muito ânimo para trabalhar, nem para nada. Mas sabe, isso vai passar. Uma hora passa, sempre passa. 
+— Not for me either. I can't write anything, I don't feel like working or anything. But you know, it will be okay. One day it will, it always does. 
 
-— Passa. E vai passar em mim, assim como em você...
+— Indeed. I'm gonna be okay, as so do you...
 
-Ela olhou para o relógio, eram 22h49. Ajeitou o cachecol e calçou mais o coturno, pois o vento agora aumentara. E mesmo assim, um tremor insondável, mas discreto dominava seu corpo. Ela tinha um certo jeito para enfrentar decisões difíceis — doa a quem doer —, mas aquela situação realmente era demais para não fazê-la tremer. Novamente, mais um tempo de silêncio, e então ele continuou:
+She looked at her watch, it was 22:49. She straightened her scarf and pulled on her boots, as the wind had picked up. And yet, an unfathomable but discreet tremor dominated her body. She had a knack for facing difficult decisions — no matter who it hurt — but this situation was too much not to make her tremble. Again, another moment of silence, and then he continued:
 
-— Mas sabe o que não passa? A pergunta que eu te fiz, sobre universos paralelos. E se em um outro nós tivéssemos sido diferentes? Ou se nós nem tivéssemos nos conhecidos, ou qualquer outra coisa. Não quero chorar o leite derramado, mas será que, se universos múltiplos existirem, será que eu estaria observando um Lua tão bela quanto essa com você? Acho que essa pergunta nunca vai ter resposta. 
+— But you know what I'm still wondering about? The question I asked you about parallel universes. What if in another one we had been different? Or if we hadn't even met, or something else. I don't want to cry over spilt milk, but if multiple universes existed, would I be watching a moon as beautiful as this one with you? I don't think that question will ever be answered. 
 
-— Não me fala esse tipo de coisa, a-a-g-gora não... — e lágrimas escorreram do rosto da garota. Não, naquele momento, eles já se tornavam homem e mulher, pois passavam por um dos primeiros amargos instantes da vida.
+— Don't say that kind of thing to me now... — and tears streamed down the girl's face. No, at that moment, they had already become grown up man and woman, as they went through one of the first bitter moments of their lives.
 
-O carro havia chegado, e parou em frente ao banco do parque que os dois se sentavam. Era um carro preto, com vidros extremamente limpos e transparentes. O motorista destravou as portas, e baixou o vidro, dizendo: — Senhorita? Ela se levantou, sem se despedir do homem que ainda amava. Ele ainda tentou, num pulo de fé estender a mão para que a segurasse uma última vez, mas já era tarde demais. A porta bateu, e o carro partiu, silencioso como tudo naquela amarga noite de outono; como a lágrima que escorreu do rosto do homem vendo o carro se distanciar. 
+The car had arrived and stopped in front of the park bench where they were both sitting. It was a black car, with extremely clean and transparent windows. The driver unlocked the doors and lowered the window, saying: - Miss? She stood up, without saying goodbye to the man she still loved. He still tried, in a leap of faith, to reach out and hold her hand one last time, but it was too late. The door slammed, and the car drove off, as silent as everything else on that bitter autumn night; like the tear that ran down the man's cheek as he watched the car drive away. 
 
-A mulher encostou a têmpora na janela, observando o céu pouco estrelado. Entre as nuvens, a Lua continuava fulgurante, iluminando seus olhos castanhos e o vidro do carro. Com a estampa estelar, ela sim desejou que houvesse universos paralelos onde eles tivessem sido diferentes, e principalmente onde eles pudessem admirar a fulgurante Lua numa noite de outono.
+The woman leaned her temple against the window, looking out at the dimly lit sky. Between the clouds, the moon was still bright, illuminating her brown eyes and the car window. With the star print, she wished there were parallel universes where they had been different, and especially where they could admire the bright moon on an autumn night.

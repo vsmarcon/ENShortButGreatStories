@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Short But Great Stories"
 description: > # this means to ignore newlines until "email:"
-   Projeto de escrita independente, mas sou dependente de alma da escrita.
+   Independent writing project, but I am dependent on the soul of writing.
 
 email: viniciussouza31122002@gmail.com
 #blog logo
@@ -36,13 +36,18 @@ baseurl: "/ShortButGreatStories"
 social:
   - icon:	instagram
     url:	https://instagram.com/_marc0n
-    desc: Siga-me no Instagram
+    desc: Follow me on Instagram
+    
     # share_url: http://twitter.com/share
     # share_title: ?text=
     # share_link: "&amp;url="
+  - icon:	instagram
+    url:	https://instagram.com/10poesias01
+    desc: Follow my 'instapoetry' page
   - icon:	mug-hot
     url:	https://www.buymeacoffee.com/sbgstories/
-    desc: Suporte a página
+    desc: Support the page
+  
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="

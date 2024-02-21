@@ -52,12 +52,12 @@
           </div>
           <a name="topofpage"></a>
           <div>
-            <h1 class="post-title">Ficha Técnica</h1>
+            <h1 class="post-title">textual characteristics</h1>
             
-            <p>Gênero Textual: {{page.textual_genre}}
+            <p>Textual genre: {{page.textual_genre}}
 
               {% if page.total_pages %}
-              <br>Páginas: {{page.total_pages}}
+              <br>Pages: {{page.total_pages}}
               {% endif %}
 
               {% if page.download_link %}
@@ -70,11 +70,11 @@
             </div>
           </div>
           {% if page.sinopsis %}
-          <h1 class="post-title">Sinopse</h1>
+          <h1 class="post-title">Sinopsis</h1>
           <p>{{page.sinopsis}}</p>
           {% endif %}
           {% if page.full_text %}
-          <h1 class="post-title">Texto na Íntegra</h1>
+          <h1 class="post-title">Full text</h1>
           {{content}}
           {% endif %}
         </section>

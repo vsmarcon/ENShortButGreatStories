@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Sobre o projeto
+title: About
 permalink: /about/
 author: 'Vinicius de Souza Marcon'
 ---
 
-O gene da escrita está presente no meu sangue desde que nasci, mas só o descobri quando adolescente. Comecei através de poesias, simples e reservadas ao meu círculo social próximo.
+The writing gene has been in my blood since I was born, but I only discovered it as a teenager. I started through poetry, simple and reserved to my close social circle.
 
-Mas em 2021, como uma tempestade, a influência dos contos de Poe, Lovecraft e King inundaram meu plano criativo. Suas maneiras de contar histórias me incentivaram a buscar novas referências e experimentar novas técnicas e temáticas. 
+But in 2021, like a storm, the influence of the tales of Poe, Lovecraft and King flooded my creative plan. Their way of telling stories encouraged me to seek new references and try new techniques and themes. 
 
-Agora, através deste portal, pretendo atingir mais pessoas, mas principalmente elevar o nível de elaboração de minhas criações, por meio de contos publicados periodicamente, em arquivos compatíveis digitais.
+Now, through this portal, I intend to reach more people, but mainly raise the level of elaboration of my creations, through stories published periodically, in compatible digital files.
 
-Obigado por visitar a página!
+Thanks for visiting the page!
