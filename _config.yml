@@ -10,11 +10,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: viniciussouza31122002@gmail.com
 #blog logo
-logo: "/assets/images/sbgs_logo_3.png"
+logo: "/assets/images/SBGS_logo_4.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/sbgs_cover.png"
+cover: "/assets/images/sbgs_cover_2.jpg"
 
 name: 'Vinicius de Souza Marcon'
 author: 'Vinicius de Souza Marcon'
